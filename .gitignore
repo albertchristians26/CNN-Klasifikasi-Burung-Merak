@@ -1,0 +1,11 @@
+/join primer sekunder
+/hasil ekstrasi frame video
+/seleksi gambar dari ekstrasi frame
+/denoised_image
+/sharpened_image
+/contrasted_image
+/crop image
+/resize_image
+/augmentasi_image
+/clean_data
+/trained_model
