@@ -1,0 +1,12 @@
+Note urutan folder yang tercipta :
+1. hasil ekstrasi frame video
+2. join primer sekunder
+3. denoised_image
+4. sharpened_image
+5. contrasted_image
+6. crop image
+7. resize_image
+8. split_data_2
+9. augmentasi_image_2
+10. clean_data_2
+11. final_clean_data
